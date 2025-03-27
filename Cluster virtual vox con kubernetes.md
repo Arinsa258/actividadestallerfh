@@ -21,3 +21,7 @@ Documentación de los días del trabajo:
 
 1 día :   
 \-Hemos hecho un formateo del disco para instalar el lliurex    
+
+
+Link compra:
+Placa base: https://www.alibaba.com/pla/For-B150M-AM2-LGA-1151-Motherboard-DDR4_1601123955787.html?mark=google_shopping&biz=pla&searchText=motherboards&product_id=1601123955787&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22061617854&adgrp=174155217993&fditm=&tgt=pla-2385971286609&locintrst=&locphyscl=9198302&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=727075585388&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gclid=CjwKCAjw7pO_BhAlEiwA4pMQvMX7Q2UeW5oOxM4tBjs9E9ILd4o69mTXQHFp3e9ke-oODeHxQrC0NhoC-EIQAvD_BwE
