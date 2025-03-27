@@ -1,4 +1,4 @@
-**Cluster virtual vox con kubernetes**   
+**Cluster virtual vox con Virtual Storage**   
 Inventario:
 
 1\. Ordenador:
