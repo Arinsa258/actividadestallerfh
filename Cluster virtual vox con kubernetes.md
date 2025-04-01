@@ -11,7 +11,8 @@ Inventario:
 - 1 Monitor Samsung   
 - 1 Cable de alimentación   
 - 1 Cable 9G  
-- 1 Cable de red 
+- 1 Cable de red
+- 1 Cable Universal a HDMI
 
 2\. Placas de raspberry:
 
